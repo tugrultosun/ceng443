@@ -1,0 +1,1 @@
+compile java codes then run Teacher with your arguments.
